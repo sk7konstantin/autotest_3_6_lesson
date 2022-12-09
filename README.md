@@ -1,0 +1,1 @@
+# autotest_3_6_lesson
